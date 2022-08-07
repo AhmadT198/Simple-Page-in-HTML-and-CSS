@@ -2,4 +2,4 @@
 
 This project uses HTML and, CSS to build a responsive web page. <br>
 
-It applies the concepts of the flexbox and media queries.
+It applies the principles of the flexbox and media queries.
